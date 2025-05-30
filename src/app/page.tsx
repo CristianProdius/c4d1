@@ -423,10 +423,11 @@ const OSResourcesDiagram = () => {
             What Professor Said:
           </h4>
           <p style={{ color: "#333", margin: 0, fontSize: "12px" }}>
-            "The OS makes sure Job A doesn't interfere with Job B's motor, that
-            each job gets its own memory space without conflicts, and that all
-            jobs get fair CPU time. This way they can all run 'at the same time'
-            even though there's only one processor!"
+            &quot;The OS makes sure Job A doesn&quot;t interfere with Job
+            B&quot;s motor, that each job gets its own memory space without
+            conflicts, and that all jobs get fair CPU time. This way they can
+            all run &quot;at the same time&quot; even though there&quot;s only
+            one processor!&quot;
           </p>
         </div>
       </div>
